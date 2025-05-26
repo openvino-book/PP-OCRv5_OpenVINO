@@ -53,6 +53,10 @@ To quickly start using the PP-OCRv4_OpenVINO project, follow these steps:
 
 ## Support other inference engines
 Refer to [How to Support Other Inference Engines](./How%20to%20support%20other%20inference%20engines.md)
+
+## Learn more about OpenVINO
+Go to the [OpenVINO Handbook](https://github.com/openvino-book/openvino_handbook)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
