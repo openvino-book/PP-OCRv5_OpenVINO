@@ -1,0 +1,9 @@
+openvino
+opencv-python
+Pillow
+shapely
+pyclipper
+scikit-image
+imgaug
+lmdb
+tqdm
