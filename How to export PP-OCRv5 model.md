@@ -11,7 +11,6 @@ conda activate ppocrv5_ov
 ```bash
 pip install paddlepaddle
 pip install paddleocr
-pip install onnx==1.16.0
 paddleocr install_hpi_deps cpu
 ```
 
