@@ -4,7 +4,7 @@
 </div>
 
 ## Introduction
-🔥PP-OCRv5_OpenVINO is a demo project that demonstrates how to perform inference using the [PP-OCRv5](https://github.com/PaddlePaddle/PaddleOCR/blob/main/README_en.md)  model with [OpenVINO](https://docs.openvino.ai/2025/index.html). The [PP-OCRv5 ](https://github.com/PaddlePaddle/PaddleOCR/blob/main/README_en.md) model is a High-Accuracy Text Recognition Model for All Scenarios:
+🔥PP-OCRv5_OpenVINO is a demo project that demonstrates how to perform inference using the [PP-OCRv5](https://github.com/PaddlePaddle/PaddleOCR)  model with [OpenVINO](https://docs.openvino.ai/2025/index.html). The [PP-OCRv5](https://github.com/PaddlePaddle/PaddleOCR) model is a High-Accuracy Text Recognition Model for All Scenarios:
 
    1. 🌐 Single-model support for **five** text types - Seamlessly process **Simplified Chinese, Traditional Chinese, Simplified Chinese Pinyin, English** and **Japanse** within a single model.
    2. ✍️ Improved **handwriting recognition**: Significantly better at complex cursive scripts and non-standard handwriting.
@@ -50,6 +50,8 @@ To quickly start using the PP-OCRv4_OpenVINO project, follow these steps:
 
 2. The recognized text will be printed to the console.
 ![Inference Result](./images/run.png)
+
+3. Compare the inference performance with the [official data](https://www.paddleocr.ai/latest/en/version3.x/algorithm/PP-OCRv5/PP-OCRv5.html).
 
 ## Support other inference engines
 Refer to [How to Support Other Inference Engines](./How%20to%20support%20other%20inference%20engines.md)
