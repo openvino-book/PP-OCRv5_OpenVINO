@@ -32,11 +32,11 @@ To install the necessary dependencies for this project, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. Convert the PP-OCRv5 Model to ONNX format in the PP-OCRv4_OpenVINO folder as [《How to export PP-OCRv5 model to ONNX format》](./How%20to%20export%20PP-OCRv5%20model.md)
+4. Convert the PP-OCRv5 Model to ONNX format in the PP-OCRv5_OpenVINO folder as [《How to export PP-OCRv5 model to ONNX format》](./How%20to%20export%20PP-OCRv5%20model.md)
 
 
 ## Quick Start
-To quickly start using the PP-OCRv4_OpenVINO project, follow these steps:
+To quickly start using the PP-OCRv5_OpenVINO project, follow these steps:
 
 1. Run the inference script:
     ```sh
